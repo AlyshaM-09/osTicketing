@@ -4,7 +4,8 @@
     <h2> Creating Virtual Machine in Azure </h2>
     (video place here)
 <h3>Installion of Files </h3>
-    (video place here)
+    (video place here) <br>
+    
 <b>Step 1:</b> go to RUN -> Control Panel -> click world wide web service -> application development feature -> enable CGI and common HTTP features <br>
 <b>Step 2:</b> intall: PhP Manager, Rewrite Module, PHP 7.3.8 and unzip the contents, VC exe, MySQL 5.5.62
 Under MySQl: typical setup -> launch config wizard -> standard config -> create password <br>
