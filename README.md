@@ -2,8 +2,10 @@
   <p align="center">
     <img src="https://i.imgur.com/Clzj7Xs.png" alt=osTicket logo"/>
     <h2> Creating Virtual Machine in Azure </h2>
-    (video place here)
-<h3>Installion of Files </h3>
+    
+  ### [YouTube: How to create Resource Group and Virtual Machine](https://www.youtube.com/watch?v=9o-BJx0hMEY&t=3s)
+    
+<h2>Installion of Files </h2>
     (video place here) <br>
     
 <b>Step 1:</b> go to RUN -> Control Panel -> click world wide web service -> application development feature -> enable CGI and common HTTP features <br>
