@@ -6,8 +6,13 @@
   ### [YouTube: How to create Resource Group and Virtual Machine](https://www.youtube.com/watch?v=9o-BJx0hMEY&t=3s)
     
 <h2>Installion of Files </h2>
-    (video place here) <br>
-    
+    (video place here)<br>
+<p align="center">
+ 
+<img src="![pic_remotedesktop](https://github.com/user-attachments/assets/f48183a3-870e-4328-9927-d148fe4d7f6e)" alt=pic_remotedesktop"/>
+
+<!--Try to find solution as to why code is showing with screenshot-->
+
 <b>Step 1:</b> go to RUN -> Control Panel -> click world wide web service -> application development feature -> enable CGI and common HTTP features <br>
 <b>Step 2:</b> intall: PhP Manager, Rewrite Module, PHP 7.3.8 and unzip the contents, VC exe, MySQL 5.5.62
 Under MySQl: typical setup -> launch config wizard -> standard config -> create password <br>
