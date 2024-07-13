@@ -7,9 +7,9 @@
     
 <h2>Installion of Files </h2>
     (video place here)<br>
+
 <p align="center">
- 
-<img src="![pic_remotedesktop](https://github.com/user-attachments/assets/f48183a3-870e-4328-9927-d148fe4d7f6e)" alt=pic_remotedesktop"/>
+ <img src="![remotedesktop](https://github.com/user-attachments/assets/e67533ae-55f4-47e2-83ca-2ba14066ffe0)" alt=remotedesktop"/>
 
 <!--Try to find solution as to why code is showing with screenshot-->
 
