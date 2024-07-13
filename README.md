@@ -9,7 +9,8 @@
     (video place here)<br>
 
 <p align="center">
- <img src="![remotedesktop](https://github.com/user-attachments/assets/e67533ae-55f4-47e2-83ca-2ba14066ffe0)" alt=remotedesktop"/>
+
+  <img src="![remotedesktop](https://github.com/user-attachments/assets/e67533ae-55f4-47e2-83ca-2ba14066ffe0)" alt=remotedesktop"/>
 
 <!--Try to find solution as to why code is showing with screenshot-->
 
