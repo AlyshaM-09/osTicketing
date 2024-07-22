@@ -6,7 +6,7 @@
   ### [YouTube: How to create Resource Group and Virtual Machine](https://www.youtube.com/watch?v=9o-BJx0hMEY&t=3s)
     
 <h2>Installion of Files </h2>
-    (video place here)<br>
+  ### [YouTube: Setting up osTicket](https://youtu.be/8Kg1ENDT62w)<br>
 
 <p align="center">
 
