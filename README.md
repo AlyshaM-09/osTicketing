@@ -10,6 +10,8 @@
   ### [YouTube: Setting up osTicket part one](https://www.youtube.com/watch?v=tuD_EZjzmFQ)<br>
   
   ### [YouTube: Setting up osTicket part two](https://www.youtube.com/watch?v=WB611i7A0YE)<br>
+
+  <--- I apologies for my lisp and having to slpit the video tutorial in half --->
     
 
 <b>Step 1:</b> go to RUN -> Control Panel -> click world wide web service -> application development feature -> enable CGI and common HTTP features <br>
