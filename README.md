@@ -6,13 +6,11 @@
   ### [YouTube: How to create Resource Group and Virtual Machine](https://www.youtube.com/watch?v=9o-BJx0hMEY&t=3s)
     
 <h2>Installion of Files </h2>
-  ### [YouTube: Setting up osTicket](https://youtu.be/8Kg1ENDT62w)<br>
-
-<p align="center">
-
-  <img src="![remotedesktop](https://github.com/user-attachments/assets/e67533ae-55f4-47e2-83ca-2ba14066ffe0)" alt=remotedesktop"/>
-
-<!--Try to find solution as to why code is showing with screenshot-->
+ 
+  ### [YouTube: Setting up osTicket part one](https://www.youtube.com/watch?v=tuD_EZjzmFQ)<br>
+  
+  ### [YouTube: Setting up osTicket part two]()<br>
+    
 
 <b>Step 1:</b> go to RUN -> Control Panel -> click world wide web service -> application development feature -> enable CGI and common HTTP features <br>
 <b>Step 2:</b> intall: PhP Manager, Rewrite Module, PHP 7.3.8 and unzip the contents, VC exe, MySQL 5.5.62
