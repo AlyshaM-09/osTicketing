@@ -12,7 +12,15 @@
   ### [YouTube: Setting up osTicket part two](https://www.youtube.com/watch?v=WB611i7A0YE)<br>
 
   <!---I apologies for my lisp and having to slpit the video tutorial in half--->
-    
+  
+  <h2>Technologies Used</h2> 
+  - Microsoft Azure <br>
+  - Remote Destop <br>
+  - Internet Information Service
+
+  <h2>Operating Sytems Used</h2>
+  - Windows 10
+  <h2>Step by Step</h2>
 
 <b>Step 1:</b> go to RUN -> Control Panel -> click world wide web service -> application development feature -> enable CGI and common HTTP features <br>
 <b>Step 2:</b> intall: PhP Manager, Rewrite Module, PHP 7.3.8 and unzip the contents, VC exe, MySQL 5.5.62
