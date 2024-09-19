@@ -23,32 +23,38 @@
  - Windows Server 2022
 
 <h2>Step by Step</h2>
-<!-- <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p> -->
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/953a2910-1f09-4c2a-ba6a-eca69ac17156"height="80%" width="80%" alt=step one"/>
 <p>
 <b>
   Step 1:</b> go to RUN -> Control Panel -> click world wide web service -> application development feature -> enable CGI and common HTTP features <br>
 <b>
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/199defe7-2907-438a-a363-f6961214832e" height="80%" width="80%" alt="step two"/>
+ <br>
   Step 2:</b> intall: PhP Manager, Rewrite Module, PHP 7.3.8 and unzip the contents, VC exe, MySQL 5.5.62
 Under MySQl: typical setup -> launch config wizard -> standard config -> create password <br>
 </p>
-<!-- <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p> -->
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b8f0c893-433c-4ba4-b907-9b957c2cdf58" height="80%" width="80%" alt="step three"/>
+
 <p>
 <b>
   Step 3:</b>  open IIS as Admin, register PHP, reload IIS install osTicket 1.15.8 <br>
 After installing osTicket 1.15.8: copy folder to c:\inetpub\wwwroot and rename upload to osTicket <br>
 <b>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/e1a9d0e0-ca64-4d95-be02-d364e94d5e45" height="80%" width="80%" alt=step four"/>
+  <br>
   Step 4:</b>  Reload IIS, go to sites, defualt, osTicket, browse 80, double click PHP manager, enable: php imap, php intl, php opcache, refresh osTicket in browser <br>
-<!-- <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p> --
-</p>
-<p>
 <b>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/12dbf292-2d47-4718-8dae-d8fb9b4771c7" height="80%" width="80%" alt=step five"/>
+    <br>
   Step 5:</b>  rename ost-sampleconfig.php to ost-conf.php, assign permission by disable inheritance remove all to new permissions everyone all <br>
 <b>
-  Step 6:</b> install heidisql, root, password, connect sessiom, create database osTicket, finish setting up in browser 
+   <p align="center">
+    <img src="https://github.com/user-attachments/assets/5cbcca38-4b3a-4a94-96c0-1213f82b625c" height="80%" width="80%" alt=step five"/>
+    <br>
+  Step 6:</b> install heidisql, root, password, connect session, create database osTicket, finish setting up in browser 
 </p>
