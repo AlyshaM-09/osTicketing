@@ -1,4 +1,4 @@
-# osTicketing-Prerequisites
+# osTicket
   <p align="center">
     <img src="https://i.imgur.com/Clzj7Xs.png" alt=osTicket logo"/>
     <h2> Creating Virtual Machine in Azure </h2>
@@ -27,20 +27,21 @@
     <img src="https://github.com/user-attachments/assets/953a2910-1f09-4c2a-ba6a-eca69ac17156"height="80%" width="80%" alt=step one"/>
 <p>
 <b>
-  Step 1:</b> go to RUN -> Control Panel -> click world wide web service -> application development feature -> enable CGI and common HTTP features <br>
-<b>
+  Step 1:</b> Within Control Panel, click World Wide Services, application, and finally development feature. Here enable, CGI and common HTTP features. If done correctly IIS should be working. To know this is put in local host (127.0.0.1) into the search bar. It should show a blue screen instead of an error. <br>
 <p align="center">
  <img src="https://github.com/user-attachments/assets/199defe7-2907-438a-a363-f6961214832e" height="80%" width="80%" alt="step two"/>
- <br>
-  Step 2:</b> intall: PhP Manager, Rewrite Module, PHP 7.3.8 and unzip the contents, VC exe, MySQL 5.5.62
-Under MySQl: typical setup -> launch config wizard -> standard config -> create password <br>
+<br>
+  <b>
+Step 2:</b> Intall: PhP Manager, Rewrite Module, PHP 7.3.8 and unzip the contents into C:/PHP folder, VC redist, MySQL 5.5.62<br>
+  <b>
+Under MySQl:</b> Typical setup -> launch config wizard -> standard config -> create password <br> 
 </p>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b8f0c893-433c-4ba4-b907-9b957c2cdf58" height="80%" width="80%" alt="step three"/>
 
 <p>
 <b>
-  Step 3:</b>  open IIS as Admin, register PHP, reload IIS install osTicket 1.15.8 <br>
+Step 3:</b>  open IIS as Admin, register PHP, reload IIS install osTicket 1.15.8 <br>
 After installing osTicket 1.15.8: copy folder to c:\inetpub\wwwroot and rename upload to osTicket <br>
 <b>
 <p align="center">
