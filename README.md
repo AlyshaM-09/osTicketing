@@ -15,7 +15,7 @@
   
   <h2>Technologies Used</h2> 
   - Microsoft Azure <br>
-  - Remote Destop <br>
+  - Remote Desktop <br>
   - Internet Information Service
 
   <h2>Operating Sytems Used</h2>
