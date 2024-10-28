@@ -1,15 +1,13 @@
-# osTicket
+
   <p align="center">
     <img src="https://i.imgur.com/Clzj7Xs.png" alt=osTicket logo"/>
     <h2> Creating Virtual Machine in Azure </h2>
     
-  ### [YouTube: How to create Resource Group and Virtual Machine](https://www.youtube.com/watch?v=9o-BJx0hMEY&t=3s)
+
     
 <h2>Installion of Files </h2>
  
-  ### [YouTube: Setting up osTicket part one](https://www.youtube.com/watch?v=tuD_EZjzmFQ)<br>
-  
-  ### [YouTube: Setting up osTicket part two](https://www.youtube.com/watch?v=WB611i7A0YE)<br>
+
 
   <!---I apologies for my lisp and having to slpit the video tutorial in half--->
   
