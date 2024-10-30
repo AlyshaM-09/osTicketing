@@ -7,24 +7,27 @@
   - Remote Desktop <br>
   - Internet Information Service
 
-  <h2>Operating Sytems Used</h2>
+  <h2>Operating Systems Used</h2>
   - Windows 10 <br>
  - Windows Server 2022
-<h2>Definations</h2>
+<h2>Definitions</h2>
 <b>Localhost</b>: is a loopback request represented by the address 127.0.0.1. Localhost is a tool for testing web applications, network testing, and blocking malicious websites. <br>
-<b>Internet Information Services</b>: is a tool that runs on Windows systems that supports various protocals (HTTP, HTTPS, FTP, ect). IIS includes features managing sites, applicataions and server performance.
+<b>Internet Information Services</b>: is a tool that runs on Windows systems that supports various protocols (HTTP, HTTPS, FTP, ect). IIS includes features managing sites, applications  and server performance.
+
+<h2>Prerequisites</h2>
+<p> In Microsoft Azure I set up A Virtual Machine. To set up a Virtual Machine, click Virtual Machine -> create -> zone 3 -> Windows 10 -> username and password and then create. I take the IP address into the remote desktop and log in with the username and password set up. </p>
 
 <h2>Installing files</h2>
 <p>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/f0799a35-207d-45f8-9e7e-21fa5686f488" height="50%" width="50%" alt="step one"/>
 </p>
-<p>After creating a virtual machine in azure and logging in. Download and unzip the osTicket insatallation files.</p>
+<p>After creating a virtual machine in azure and logging in. Download and unzip the osTicket installation files.</p>
 <p>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/1e5dab0f-bf89-43d1-97d4-6a5ff60a2ff2" height="50%" width="50%" alt="step one"/>
 </p>
-<p>Enbale IIS in windows by following these steps: control panel -> windows features -> world wide web -> application development features -> CGI. To know this has worked is by doing a loopback address. In the browser type in 127.0.0.1. If you see a blue screen it has worked. If you see an error, then go back through the steps previously.</p>
+<p>Enable IIS in windows by following these steps: control panel -> windows features -> world wide web -> application development features -> CGI. To know this has worked is by doing a loopback address. In the browser type in 127.0.0.1. If you see a blue screen it has worked. If you see an error, then go back through the steps previously.</p>
 <p>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/b6d885ad-42dc-47fd-8215-d033ac849013"
@@ -65,7 +68,7 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/52c397b0-b1dd-4b4d-a6ec-f82a66fa5a42" height="50%" width="50%" alt="step one"/>
 </p>
-<p>In folders, unzip osticket install files. Copy uploas into c:\inetpub\wwwroot and rename to osticket.</p>
+<p>In folders, unzip osTicket install files. Copy uploads into c:\inetpub\wwwroot and rename to osTicket.</p>
 <p>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/766b96b6-2d27-43ac-98e5-8461f86f8b05" height="50%" width="50%" alt="step one"/>
@@ -80,7 +83,7 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/0bc5db5e-b7a0-4481-b5bc-3ff77768298b" height="50%" width="50%" alt="step one"/>
 </p>
-<p>Remane ost-smapleconfig.php to ost-config.php.</p>
+<p>Rename ost-smapleconfig.php to ost-config.php.</p>
 <p>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/a2fd8fe0-a5be-4e74-b082-0782fd12b591" height="50%" width="50%" alt="step one"/>
@@ -90,11 +93,11 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/926dfad7-f5d8-491a-9126-6da0832b51da" height="50%" width="50%" alt="step one"/>
 </p>
-<p>By now you should be on the set up page of osTicket; name, password, and email should be already placed in. In the bottom section will need database file from Heidi SQL. Install Heidi SQL from the osticket install files folder. Create a new session, log in with the user and password created from MySQL. Connect to the session and create a database osTicket. Once the bottom section is filled out click contiue.</p>
+<p>By now you should be on the set up page of osTicket; name, password, and email should be already placed in. In the bottom section will need a database file from Heidi SQL. Install Heidi SQL from the osticket install files folder. Create a new session, log in with the user and password created from MySQL. Connect to the session and create a database osTicket. Once the bottom section is filled out click continue.</p>
 <p>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/b9e886dc-1efa-4ee5-bb1e-c2f0b37c15aa" height="50%" width="50%" alt="step one"/>
 </p>
-<p>Congrats you have donwloaded osTicket. From here you can learn the program and how to resolve tickets and create accounts.</p>
+<p>Congrats you have downloaded osTicket. From here you can learn the program and how to resolve tickets and create accounts.</p>
 
 
