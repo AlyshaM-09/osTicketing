@@ -11,8 +11,8 @@
   - Windows 10 <br>
  - Windows Server 2022
 <h2>Definations</h2>
-localhost:
-iis:
+<b>Localhost</b>: is a loopback request represented by the address 127.0.0.1. Localhost is a tool for testing web applications, network testing, and blocking malicious websites. <br>
+<b>Internet Information Services</b>: is a tool that runs on Windows systems that supports various protocals (HTTP, HTTPS, FTP, ect). IIS includes features managing sites, applicataions and server performance.
 
 <h2>Installing files</h2>
 
